@@ -4,8 +4,8 @@ body{
 
 form{
     background-color: #fff;
-    width: 50vh;
-    padding: 10px 30px;
+    width: 45vh;
+    padding: 10px 25px;
     top: 50%;
     left: 50%;
     border-radius: 3px;
@@ -50,3 +50,10 @@ label {
 p{
     background-color: #fff;
 }
+
+.wrapper-mobile {
+    width: 480px;
+    margin: 0 auto;
+    /* background-color: var(--white); */
+    /* padding: 0 1rem; */
+  }
