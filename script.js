@@ -15,7 +15,7 @@ count.addEventListener("click", () => {
 
         if (result < 18.5) {
             result2 = "UNDERWEIGHT😓";
-            result3 = "You need to eat more!";
+            result3 = "Ayo Makan Lagi!";
             console.log(result);
         } else if (result >= 18.5 && result <= 24.9) {
             result2 = "NORMAL😀";
@@ -27,7 +27,7 @@ count.addEventListener("click", () => {
             console.log(result);
         } else if (result >= 30) {
             result2 = "OBESE💀";
-            result3 = "You need Diet";
+            result3 = "Diet bro, DIET!!!";
             console.log(result);
         }
 
